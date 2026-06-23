@@ -8,5 +8,5 @@ usually messing around with:
 - random backend magic  
 - making security not suck  
 
-if you wanna see what i’m about → [semmyverdonschot.com](https://semmyverdonschot.com)  
+if you wanna see what i’m about → [semmy.io](https://semmy.io)  
 _Based in the Limburg, the Netherlands_
