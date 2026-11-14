@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://semmy.io"><img src="https://semmy.io/assets/brand/social/og-image.png" alt="semmy. Good enough is for other people." width="100%"></a>
+<a href="https://semmy.io"><img src="https://semmy.io/assets/brand/social/og-image.png?v=mwgugoqu" alt="semmy. Good enough is for other people." width="100%"></a>
 
 <br>
 
