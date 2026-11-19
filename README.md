@@ -33,17 +33,21 @@ I make cool sh\*t that works. Fast, locked down and d\*mn good.
 | **Infrastructure** | Servers that stay up, locked down by someone trained in cybersecurity. |
 | **Branding** | Brands with a backbone: the mark, the colours, the type and the rules. |
 
-## Wanna see my sh\*t?
+## Wanna see my sh*t?
 
 <div align="center">
 
-### **[semmy.io](https://semmy.io)**
+<h3><a href="https://semmy.io"><strong>semmy.io</strong></a></h3>
 
-*A brand logo whose m's stretch, and a skeleton that stares back.*<br>
-*Go on. I'll wait.*
+<em>A brand logo whose m's stretch, and a skeleton that stares back.</em><br>
+<em>Go on. I'll wait.</em>
 
-</div>
-[**semmy.io**](https://semmy.io)
+<br>
+
+<a href="https://semmy.io">Visit semmy.io</a>
+
+<br><br>
+
 <sub>Good enough is for other people. I'm not other people.</sub>
 
 </div>
