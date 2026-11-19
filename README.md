@@ -28,7 +28,7 @@ I make cool sh\*t that works. Fast, locked down and d\*mn good.
 
 | | |
 |---|---|
-| **Websites** | Sites that hit hard. Drawn and coded by hand, never a template. |
+| **Websites** | Sites that hit hard. |
 | **E-commerce** | Shops that sell, on pages that load before the doubt does. |
 | **Infrastructure** | Servers that stay up, locked down by someone trained in cybersecurity. |
 | **Branding** | Brands with a backbone: the mark, the colours, the type and the rules. |
