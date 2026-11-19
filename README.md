@@ -37,7 +37,7 @@ I make cool sh\*t that works. Fast, locked down and d\*mn good.
 
 <div align="center">
 
-### [**semmy.io**](https://semmy.io)
+### [semmy.io](https://semmy.io)
 
 *A brand logo whose m's stretch, and a skeleton that stares back.*<br>
 *Go on. I'll wait.*
